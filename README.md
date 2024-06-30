@@ -14,7 +14,7 @@ Datatable
 
 # How to setup
 
-git clone respo
+git clone https://github.com/prabhapandey127/personal-budget-tracker/
 
 # run cmd
 ``` composer install ```
@@ -25,7 +25,7 @@ git clone respo
 
 ``` php artisan serve ```
 
-Try to access the url :- http://127.0.0.1:8000/
+Try to access the URL :- http://127.0.0.1:8000/
 
 # Recurring Transactions
 
